@@ -18,9 +18,9 @@ The __Source__ property of the __RadDataFilter__ is of type __IEnumerable__, whi
 On the picture below you can see the flow of the collection you want to filter.
   ![](images/RadDataFilter_Features_SourceAndFiltertedSource_01.png)
 
-When you assign an [IEnumerable](http://msdn.microsoft.com/en-us/library/system.collections.ienumerable.aspx) as the __Source__ of a __RadDataFilter__ it will automatically expose it through its __FilteredSource__ property. From then on, you can attach any number of __ItemsControls__ to the __FilteredSource__ and they will automatically display the filtered data. Here is demonstrated how to do this entirely in XAML.
+When you assign an [IEnumerable](http://msdn.microsoft.com/en-us/library/system.collections.ienumerable.aspx) as the __Source__ of a __RadDataFilter__ it will automatically expose it through its __FilteredSource__ property. From then on, you can attach any number of __ItemsControls__ to the __FilteredSource__ and they will automatically display the filtered data. Here is demonstrated how to do this entirely in __XAML__.
 
-#### __XAML__
+#### __[XAML] Example 1: Using the FilteredSource property__
 
 {{region raddatafilter-features-source-and-filtered-source_0}}
 

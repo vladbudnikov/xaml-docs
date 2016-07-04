@@ -12,7 +12,7 @@ position: 3
 
 
 
-The FilterEditors allow the users to input the value of their filter criteria in the __RadDataFilter__. This topic will make you familiar with the following:
+The __FilterEditors__ allow the users to input the value of their filter criteria in the __RadDataFilter__. This topic will make you familiar with the following:
 
 * [Built-in Filter Editors](#built-in-filter-editors)
 

@@ -20,7 +20,7 @@ If you want to predefine descriptors, you have to create the desired ones and ad
 
 Here is an example of a predefined descriptor.
 
-#### __XAML__
+#### __[XAML] Example 1: Defining RadDataFilter__
 
 {{region raddatafilter-features-filter-descriptors_0}}
 
@@ -29,7 +29,7 @@ Here is an example of a predefined descriptor.
 
 
 
-#### __C#__
+#### __[C#] Example 2: Adding a FilterDescriptor__
 
 {{region raddatafilter-features-filter-descriptors_1}}
 
@@ -39,7 +39,7 @@ Here is an example of a predefined descriptor.
 
 
 
-#### __VB.NET__
+#### __[VB.NET] Example 2: Adding a FilterDescriptor__
 
 {{region raddatafilter-features-filter-descriptors_2}}
 

@@ -16,7 +16,7 @@ The example in this topic will show you a __RadGridView__ bound to a list of __E
 
 Here is the XAML for the example. In it you can see a __RadGridView__ and a __RadDataFilter__.
 
-#### __XAML__
+#### __[XAML] Example 1: Filtering RadGridView Through RadDataFilter in Unbound Mode__
 
 {{region raddatafilter-features-unbound-mode_0}}
 
@@ -47,7 +47,7 @@ Here is the code-behind for the example. In it you should take notice at the ins
 
 >At the end of the topic you can find the code for the __Employee__ class, used in the example.
 
-#### __C#__
+#### __[C#] Example 2: Synchronizing the FilterDescriptors of RadDataFilter and RadGridView__
 
 {{region raddatafilter-features-unbound-mode_1}}
 
@@ -77,7 +77,7 @@ Here is the code-behind for the example. In it you should take notice at the ins
 
 
 
-#### __VB.NET__
+#### __[VB.NET] Example 2: Synchronizing the FilterDescriptors of RadDataFilter and RadGridView__
 
 {{region raddatafilter-features-unbound-mode_2}}
 
@@ -103,7 +103,7 @@ Here is the code-behind for the example. In it you should take notice at the ins
 
 Here is also the code for the __Employee__ class, used in the example.
 
-#### __C#__
+#### __[C#] Example 3: Defining the Employee object__
 
 {{region raddatafilter-features-unbound-mode_3}}
 
@@ -135,7 +135,7 @@ Here is also the code for the __Employee__ class, used in the example.
 
 
 
-#### __VB.NET__
+#### __[VB.NET] Example 3: Defining the Employee object__
 
 {{region raddatafilter-features-unbound-mode_4}}
 

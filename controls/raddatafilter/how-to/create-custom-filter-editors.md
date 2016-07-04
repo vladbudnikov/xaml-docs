@@ -31,7 +31,7 @@ In XAML you have to create an instance of the selector, define its rules collect
 
 >In order to set the case sensitivity, you have to bind the __IsCaseSensitive__ property of the DateTemplate’s DataContext, also using a two-way binding.
           
-#### __XAML__
+#### __[XAML] Example 1: Defining a Custom Filter Editor__
 
 {{region raddatafilter-how-to-create-custom-filter-editors_4}}
 
@@ -74,7 +74,7 @@ Here is the code behind of the example. The most important thing in it is the ev
 
 As you can see by using the switch statement you can extend the logic for additional custom editors by adding more cases.
 
-#### __C#__
+#### __[C#] Example 2: Populating the Editor With Items__
 
 {{region raddatafilter-how-to-create-custom-filter-editors_5}}
 
@@ -103,7 +103,7 @@ As you can see by using the switch statement you can extend the logic for additi
 
 
 
-#### __VB.NET__
+#### __[VB.NET] Example 2: Populating the Editor With Items__
 
 {{region raddatafilter-how-to-create-custom-filter-editors_6}}
 
@@ -140,7 +140,7 @@ Here is a snapshot of the final result:
 
 Here is the code for the Employee object and the sample data.
 
-#### __C#__
+#### __[C#] Example 3: Defining the Employee Object__
 
 {{region raddatafilter-how-to-create-custom-filter-editors_7}}
 
@@ -172,7 +172,7 @@ Here is the code for the Employee object and the sample data.
 
 
 
-#### __VB.NET__
+#### __[VB.NET] Example 3: Defining the Employee Object__
 
 {{region raddatafilter-how-to-create-custom-filter-editors_8}}
 
@@ -214,7 +214,7 @@ Here is the code for the Employee object and the sample data.
 
 
 
-#### __C#__
+#### __[C#] Example 4: Filling the Source Collection__
 
 {{region raddatafilter-how-to-create-custom-filter-editors_9}}
 
@@ -233,7 +233,7 @@ Here is the code for the Employee object and the sample data.
 
 
 
-#### __VB.NET__
+#### __[VB.NET] Example 4: Filling the Source Collection__
 
 {{region raddatafilter-how-to-create-custom-filter-editors_10}}
 
