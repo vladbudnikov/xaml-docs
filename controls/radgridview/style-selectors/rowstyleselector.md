@@ -144,7 +144,7 @@ If you are using our [Implicit Themes]({%slug styling-apperance-implicit-styles-
 
 {{region gridview-rowstyleselector_3}}
 
-	<telerik:RadGridView RowStyleSelector="{StaticResource StadiumCapacityStyle}" />
+	<telerik:RadGridView RowStyleSelector="{StaticResource stadiumCapacityStyle}" />
 {{endregion}}
 
 >Since the virtualization of the control is turned on by default, it is not recommended to work with the visual elements (i.e. GridViewRow) and their properties. You should not set properties of GridViewRow inside SelectStyle method. [Read mode on UI Virtualization]({%slug radgridview-features-ui-virtualization%}).
